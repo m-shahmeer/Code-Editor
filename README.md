@@ -25,8 +25,6 @@ Code Editor is a web-based personal project that serves as a code editor, empowe
 - Full support for HTML, CSS, and JavaScript, enabling you to build responsive and feature-rich websites.
 - Real-time preview functionality, enabling you to visualize changes instantly.
 - User-friendly interface, making it accessible to developers of all levels of experience.
-- Integrated code-saving and sharing options, facilitating collaboration and showcasing your creations.
-- (Add any other unique or standout features of your code editor).
 
 ## Getting Started
 
@@ -58,9 +56,7 @@ Code Editor provides separate sections for HTML, CSS, and JavaScript. You can ed
 
 As you make changes to your code, the real-time preview will update automatically, allowing you to see the live results of your modifications.
 
-### Saving and Sharing Projects
 
-Code Editor allows you to save your projects for future editing or sharing with others. To save a project, click on the "Save" button and provide a project name. You will receive a unique URL that you can share with collaborators or showcase your creations to the world.
 
 ## Contributing
 
@@ -72,10 +68,3 @@ We welcome contributions from the community! If you would like to contribute to 
 4. Push your branch to your forked repository.
 5. Open a pull request to the main repository, describing the changes you've made.
 
-## License
-
-[Include the license information here, e.g., MIT License]
-
-## Contact
-
-If you have any questions, suggestions, or feedback, please contact us at [your-email@example.com] or [join our Discord server](https://discord.gg/your-discord-server).
